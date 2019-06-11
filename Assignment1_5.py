@@ -1,4 +1,4 @@
-x=input("Enter any number")
+x=int(input("Enter any number"))
 
 # if x>=10 and x<=50:
 # else:
